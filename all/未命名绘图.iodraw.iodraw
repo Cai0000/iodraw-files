@@ -118,7 +118,7 @@
         </mxCell>
         <UserObject label="services/routeviews/merge_routeviews.py" link="services/routeviews/merge_routeviews.py" id="6zpN9bO39iwUwQpBg68Z-38">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="510" y="500" width="260" height="40" as="geometry" />
+            <mxGeometry x="490" y="510" width="230" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
