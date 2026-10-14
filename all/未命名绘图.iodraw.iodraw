@@ -29,7 +29,7 @@
         <mxCell id="6zpN9bO39iwUwQpBg68Z-11" value="下载roa.xz并合并" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6zpN9bO39iwUwQpBg68Z-13" value="&lt;div style=&quot;background-color:#191a1c;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;merge_roa_by_month&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6zpN9bO39iwUwQpBg68Z-13" value="merge_roa_by_month&lt;br&gt;下载每日数据，按月份合并" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
